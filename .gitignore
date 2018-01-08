@@ -1,0 +1,6 @@
+*.idea
+/bin/
+.settings*
+.classpath
+.project
+WEB-INF/*
